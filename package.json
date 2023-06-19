@@ -33,10 +33,7 @@
     },
     "requires": {
       "db": {
-        "kind": "sqlite",
-        "credentials": {
-          "database": "db.sqlite"
-        }
+        "kind": "hana"
       }
     }
   }
